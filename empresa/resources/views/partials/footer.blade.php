@@ -2,7 +2,7 @@
     <div class="footer-container">
         <div class="footer-section">
             <h4>Sobre Nosotros</h4>
-            <p>Somos una empresa dedicada a proporcionar los mejores servicios en el mercado.</p>
+            <p>Somos una empresa.</p>
         </div>
         <div class="footer-section">
             <h4>Enlaces Rápidos</h4>
@@ -15,7 +15,7 @@
         </div>
         <div class="footer-section">
             <h4>Contacto</h4>
-            <p>Email: info@tuempresa.com</p>
+            <p>Email: EMPRESA@.com</p>
             <p>Teléfono: +123 456 7890</p>
         </div>
         <div class="footer-section">
@@ -26,6 +26,6 @@
         </div>
     </div>
     <div class="footer-bottom">
-        <p>&copy; <?php echo date("Y"); ?> Tu Empresa. Todos los derechos reservados.</p>
+        <p>&copy; <?php echo date("Y"); ?> EMPRESA. Todos los derechos reservados.</p>
     </div>
 </footer>
